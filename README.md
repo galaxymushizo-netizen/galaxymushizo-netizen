@@ -12,7 +12,7 @@ Android &bull; Next.js &bull; AI Agents &bull; Kotlin &bull; TypeScript
 
 ## About Me
 
-N developer wa multi-platform nchini Tanzania, najenga apps na systems zinazosaidia watu kwenye maisha ya kila siku. Ninafocus kwenye Android (Kotlin), web apps (Next.js/TypeScript), na AI-powered solutions.
+ developer wa multi-platform nchini Tanzania, najenga apps na systems zinazosaidia watu kwenye maisha ya kila siku. Ninafocus kwenye Android (Kotlin), web apps (Next.js/TypeScript), na AI-powered solutions.
 
 Ninaamini technology inapaswa kusuluhisha matatizo ya kweli — si kwa faida tu, bali kwa manufaa ya jamii.
 
