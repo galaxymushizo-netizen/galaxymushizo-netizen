@@ -41,6 +41,9 @@ Ninaamini technology inapaswa kusuluhisha matatizo ya kweli — si kwa faida tu,
 ### GALACTOS-1
 > Health mobile tracking app ya kwanza kutoka Galaxy — built na Kotlin na Gemini AI.
 
+### Matokeo Platform
+> School Results Management System — Interactive dashboard with analytics, PDF & Excel export. [Live Demo](https://galaxymushizo-netizen.github.io/matokeo-platform/)
+
 ### Bilingual Portfolio
 > Portfolio website ya bilingual (English/Kiswahili) built na Next.js, PostgreSQL, na Drizzle ORM.
 
