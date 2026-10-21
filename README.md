@@ -30,7 +30,7 @@ Ninaamini technology inapaswa kusuluhisha matatizo ya kweli — si kwa faida tu,
 ## Featured Projects
 
 ### KodiSalama
-> Mfumo wa kisasa wa usimamizi wa Kodi za Nyumba — Android app kwa wamiliki wa nyumba nchini Tanzania.
+> Mfumo wa kisasa na **salama** wa usimamizi wa kodi za nyumba kwa wamiliki wa nyumba nchini Tanzania — vyumba, wapangaji, malipo, madeni, mikataba na risiti za SMS. [Web App (Next.js 16 + PostgreSQL)](https://github.com/galaxymushizo-netizen/kodisalama) · [Release v1.0.0](https://github.com/galaxymushizo-netizen/kodisalama/releases) · Android app inayoendelea.
 
 ### Tanzania Problem Finder
 > AI agent autonomous inayogundua matatizo ya kweli yanayoathiri watu Tanzania na kutambua fursa za kuyatatua kwa technology.
